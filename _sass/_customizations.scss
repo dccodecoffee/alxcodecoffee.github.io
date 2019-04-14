@@ -130,6 +130,7 @@ a {
             position: relative;
             z-index: 10;
             border: none;
+            padding-right: 20px; // Line up buttons to hamburger
             background: rgb(255, 255, 255);
             background: linear-gradient(0deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 100%);
         }
